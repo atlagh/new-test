@@ -1,6 +1,15 @@
+/*body{
+  background: linear-gradient(217deg, #000, rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, #000, rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, #35C4F0, rgba(0,0,255,0) 70.71%);
+}*/
+/*
 .App {
-  text-align: center;
-}
+    background: linear-gradient(217deg, #000, rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, #000, rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, #35C4F0, rgba(0,0,255,0) 70.71%);
+    height:  100%;
+}*/
 
 .App-logo {
   height: 40vmin;

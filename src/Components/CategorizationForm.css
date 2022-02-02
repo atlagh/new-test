@@ -1,0 +1,15 @@
+.categorization-form-text{
+	max-height: 10px;
+	padding-left: 5px;
+	color: #696969;
+	font-size: 15px;
+	font-family: Georgia;
+
+}
+
+.categorization-form{
+	margin: 50px;
+	display: flex;
+	justify-content: space-between;
+	
+}
